@@ -1,0 +1,1 @@
+<br><a href="{{url('/laporankandungan')}}">Home</a>
